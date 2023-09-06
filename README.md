@@ -12,7 +12,6 @@ Welcome to my portfolio website! This repository contains the source code and as
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
