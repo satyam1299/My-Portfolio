@@ -41,7 +41,7 @@ This portfolio website is designed to showcase my skills, projects, and experien
 2. Set up a local web server environment (e.g., XAMPP, WAMP, or MAMP) if you haven't already.
 3. Place the cloned repository in your web server's root directory.
 4. Start the web server.
-5. Access the website by navigating to `http://localhost/your-portfolio-directory` in your web browser.
+5. Access the website by navigating to `https://github.com/satyam1299/My-Portfolio.git` in your web browser.
 
 ## Usage
 
